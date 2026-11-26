@@ -47,4 +47,4 @@ O alvo está fixado em `127.0.0.1`, porta padrão deste projeto 3109 (alterável
 
 ## Interpretação
 
-Foi utilizada uma carga pequena para demonstrar os modelos aberto e fechado. A API e o JMeter foram executados localmente no mesmo computador. Os tempos dependem do ambiente, e os resultados não representam um teste de capacidade. Consulte `RESULTADOS.md` para a execução registrada. Resultados brutos, logs, relatórios HTML e arquivos de credenciais ficam fora do Git para evitar exposição acidental. O relatório HTML pode ser gerado localmente pelo comando acima.
+Foi utilizada uma carga pequena para demonstrar os modelos aberto e fechado. A API e o JMeter foram executados localmente no mesmo computador. Os tempos dependem do ambiente, e os resultados não representam um teste de capacidade. Consulte `RESULTADOS.md` para a execução registrada.O relatório HTML pode ser gerado localmente pelo comando acima.
