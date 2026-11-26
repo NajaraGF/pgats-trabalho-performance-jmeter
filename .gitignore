@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.properties
+*.jtl
+*.log
+results/
+node_modules/
